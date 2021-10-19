@@ -1,0 +1,26 @@
+1) useWait - It is a loading screen management hook. It places a placeholder 
+in place of the ui if its still loading. 
+- yarn install react-wait 
+
+
+-> yarn install react-use 
+2) useMap - It is a loading
+- yarn install react-use
+
+3) useBattery - Tracks the battery on your device
+- yarn install react-use
+
+4) useMeasure - Measures the HTML element's dimensions 
+- yarn install react-use
+
+5) useCopyToClipboard - This helps the user copy text to the clipboard 
+- yearn install react-use
+
+6) useToggle - This toggles a value to its opposite. This can be used to toggle on/off buttons, light/dark mode and to show/hide mode. 
+
+-> yarn install react-recepies
+7) useAsync - Run a code to see 
+
+yarn install react-hanger 
+8) useOnMount - Run code when a component mounts 
+9) useOnUnmount - Run Code when a component un-mounts
