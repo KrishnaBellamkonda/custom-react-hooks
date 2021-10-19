@@ -2,7 +2,7 @@
 
 // useOScreen.js
 import {useRef} from react;
-import {useOnScreen} from './useOnScreen'
+import {useOnScreen} from './custom-hooks/useOnScreen'
 
 function App() {
 	// Declare the ref and give it to an element
